@@ -5,3 +5,5 @@ the git diff compare the last commited with the unstaged  and git diff --cached 
 this line is check why git diff didnt work
 
 this is a line to further test git diff
+
+last test of staged and not staged
